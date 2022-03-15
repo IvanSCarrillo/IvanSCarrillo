@@ -8,6 +8,9 @@
 
 Me considero un apasionado por las Tecnologias de la informacion, siempre en busca de nuevos retos, con presencia en el campo del desarrollo web, me desenvuelvo de una manera responsable proactiva y autodidacta.
 
+Siempre en busqueda de nuevo conocimiento y de actualizacion en el ya adquirido en cuanto a tecnologias pasadas y nuevas se refiere.
+
+
 ## Lenguajes y herramientas:
 
 - PHP
