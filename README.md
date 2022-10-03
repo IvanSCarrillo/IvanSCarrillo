@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" style="border-radius: 20px;opacity:0.8;" src="https://www.naxer.es/wp-content/uploads/2021/05/8-lenguajes-de-programacion.jpg" height="175px"/></a>
 
 <h1 align="center">Iván Sánchez</h1>
-<h3 align="center">FULL STACK DEVELOPER <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20x"></h3>
+<h3 align="center">FULL STACK DEVELOPER <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 
 
 ## Más sobre mi
